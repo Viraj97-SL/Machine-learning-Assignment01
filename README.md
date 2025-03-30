@@ -29,8 +29,8 @@ This project performs the following tasks:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [your-repository-url]
-    cd [your-repository-directory]
+    git clone [https://github.com/Viraj97-SL/Machine-learning-Assignment01.git]
+    cd [https://github.com/Viraj97-SL/Machine-learning-Assignment01.git]
     ```
 2.  **Install Dependencies:**
     * Create a virtual environment (recommended):
