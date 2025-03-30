@@ -70,8 +70,8 @@ This project performs the following tasks:
 
 ## Files
 
-* `[your-notebook-name].ipynb`: Jupyter Notebook containing the code and analysis.
-* `[your-data-file].csv` or `[your-data-file].xlsx`: The dataset used in the analysis.
+* `Assignment(ML&NN).ipynb`: Jupyter Notebook containing the code and analysis.
+* `hearts.csv` : The dataset used in the analysis.
 * `README.md`: This file.
 
 ## Notes
